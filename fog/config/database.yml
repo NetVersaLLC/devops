@@ -1,0 +1,9 @@
+production:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: contact
+  pool: 5
+  username: contact
+  password: "DkHlDnNsEx"
+  host: staging_db.netversa.com

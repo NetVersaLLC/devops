@@ -1,0 +1,5 @@
+Host contact-sites
+  HostName github.com
+  User git
+  IdentityFile %d/.ssh/sites
+  IdentitiesOnly yes
